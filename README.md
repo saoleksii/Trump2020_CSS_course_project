@@ -5,5 +5,6 @@ select_data.py is used to select and preprocess dataset, merge all csv files int
 combine_files.py is used to merge 2 preprocessed csv files.
 Main part of the preprocessing is in Trump2020_CSS_course_project.ipynb file:
 https://colab.research.google.com/drive/1Wi8iqCfPOFY4ovoiBfWMPQDv5KUNg75_?usp=sharing
+
 EDA was made in this file: 
 https://colab.research.google.com/drive/1D8XXwy_OjtFLJtcz8auxO6LIL6bqdhsr?usp=sharing
