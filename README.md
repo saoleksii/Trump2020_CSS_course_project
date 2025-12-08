@@ -46,7 +46,7 @@ This study analyzed 6 million Reddit records during 2020 US major political even
 1. **dataset_processing.ipynb**
 2. **exploratory_data_analysis.ipynb**
 3. **final_report.pdf**
-### How to open notebooks on your device
+### How to open and use notebooks on your device
 1. Copy link to  repository (https://github.com/saoleksii/reddit_political_behaviour)
 2. Open [Google Colab welcome page](https://colab.research.google.com/)
 3. In the pop-up window select GitHub
