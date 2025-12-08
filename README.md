@@ -57,4 +57,4 @@ $ pip install zstandard
 
 - All **csv files** used in notebooks are on [google disk](https://drive.google.com/drive/folders/1Z82Rf8wvCk6QPcBqU2IR7wlUCQ9tHtjY?usp=sharing), just create folder copy and use your file path instead of default 
 ## Link to initial dataset 
-Our prepared dataset can be found on google [disk processed_political_dataset.csv](https://drive.google.com/file/d/10Kcf1_rJTibaJOAjBQb2PhPvht6zZoey/view?usp=share_link)
+Our prepared dataset can be found on google disk [processed_political_dataset.csv](https://drive.google.com/file/d/10Kcf1_rJTibaJOAjBQb2PhPvht6zZoey/view?usp=share_link)
