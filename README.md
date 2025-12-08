@@ -42,10 +42,10 @@ This study analyzed 6 million Reddit records during 2020 US major political even
 3. **combine_csv.py** (to merge all 18 files in one)
 4. **select_data.py** (clean the filtered csv file)
 5. **combine_files.py** (merge 2 files into 1)
-- All further work was done in colab
+- All further work was done in colab (except final report)
 1. **dataset_processing.ipynb**
 2. **exploratory_data_analysis.ipynb**
-3. **analytical_report.ipynb**
+3. **final_report.pdf**
 ## Requirements
 - For to_csv.py and single_file_converter.py you will need to install **zsstandard** (to handle .zst format)
 ```
