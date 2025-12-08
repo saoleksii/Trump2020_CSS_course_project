@@ -30,7 +30,7 @@ This study analyzed 6 million Reddit records during 2020 US major political even
 | 1  | scritps folder | Contains all scripts for filtering the dataset
 | 2  | notebooks folder | Main steps including cleaning dataset, analysis and report
 | 3  | google disk | All csv files (dataset versions) and vizualization folder
-| 3  | requirements.txt | Contains versions for notebooks
+| 4  | requirements.txt | Contains versions for notebooks
 
 
 ## Instructions to setup the project
