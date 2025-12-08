@@ -46,6 +46,13 @@ This study analyzed 6 million Reddit records during 2020 US major political even
 1. **dataset_processing.ipynb**
 2. **exploratory_data_analysis.ipynb**
 3. **final_report.pdf**
+### How to open notebooks on your device
+1. Copy link to  repository (https://github.com/saoleksii/reddit_political_behaviour)
+2. Open [Google Colab welcome page](https://colab.research.google.com/)
+3. In the pop-up window select GitHub
+4. Paste the copied link into the input field above
+5. Open the notebooks that will appear in a new tab
+6. In each of opened notebooks, click **File - Save a copy to Disk** (so you can run the code yourself)
 ## Requirements
 - For to_csv.py and single_file_converter.py you will need to install **zsstandard** (to handle .zst format)
 ```
